@@ -1,2 +1,2 @@
 # weighted-object
-A program which helps with triangle grid mapping.
+A program to help with triangle grid mapping.
